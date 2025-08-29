@@ -17,8 +17,7 @@ The goal is to build a simple stock tracker that calculates the total investment
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/pareshjoshij/CodeAlpha_StockPortfolioTracker.git](https://github.com/pareshjoshij/CodeAlpha_StockPortfolioTracker.git)
-    ```
+    git clone https://github.com/pareshjoshij/CodeAlpha_StockPortfolioTracker.git
 2.  Navigate to the project directory:
     ```bash
     cd CodeAlpha_StockPortfolioTracker
