@@ -1,4 +1,4 @@
- # Stock Portfolio Tracker - CodeAlpha Internship Project
+# Stock Portfolio Tracker - CodeAlpha Internship Project
 
 This is a simple command-line tool to track the total value of a stock portfolio. It was developed as a project for the CodeAlpha Python Programming internship. The user can input their owned stocks and quantities, and the program calculates the total investment value based on a hardcoded set of prices.
 
